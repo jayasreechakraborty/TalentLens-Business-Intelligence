@@ -5,13 +5,13 @@ Finding the right opportunity in today's tech job market can be overwhelming. Ta
 📌 PROBLEM STATEMENT 
 
 The Indian technology job market is highly competitive and constantly evolving. Job seekers often struggle to answer questions such as:
-
+```text
 - Which technical skills are most in demand?
 - Which companies are hiring the most?
 - Which cities offer the highest number of opportunities?
 - What salary can candidates expect for different roles?
 - What level of experience do employers typically require?
-
+```
 Since this information is spread across thousands of job postings, manually analyzing market trends is time-consuming and inefficient.
 
 💡 SOLUTION
@@ -19,14 +19,14 @@ Since this information is spread across thousands of job postings, manually anal
 TalentLens AI simplifies job market analysis by collecting and transforming raw job data into clear, interactive dashboards.
 
 The project provides insights into:
-
+```text
 - Hiring trends across India
 - Top hiring companies
 - Most in-demand technical skills
 - Salary analysis
 - Experience requirements
 - Geographic hiring distribution
-
+```
 These insights enable job seekers to make smarter career decisions while helping recruiters and analysts better understand hiring trends.
 
 🎯 PROJECT OBJECTIVES
