@@ -2,9 +2,7 @@
 
 Finding the right opportunity in today's tech job market can be overwhelming. TalentLens AI simplifies this by turning job postings into interactive insights. Built with Python, Pandas, NumPy, and Power BI, it helps users explore hiring trends, in-demand skills, salary patterns, and top hiring locations.
 
-+----------------------------------------------------------+
-|                   📌 PROBLEM STATEMENT                   |
-+----------------------------------------------------------+
+📌 PROBLEM STATEMENT 
 
 The Indian technology job market is highly competitive and constantly evolving. Job seekers often struggle to answer questions such as:
 
@@ -16,9 +14,7 @@ The Indian technology job market is highly competitive and constantly evolving. 
 
 Since this information is spread across thousands of job postings, manually analyzing market trends is time-consuming and inefficient.
 
-+----------------------------------------------------------+
-|                      💡 SOLUTION                         |
-+----------------------------------------------------------+
+💡 SOLUTION
 
 TalentLens AI simplifies job market analysis by collecting and transforming raw job data into clear, interactive dashboards.
 
@@ -33,9 +29,7 @@ The project provides insights into:
 
 These insights enable job seekers to make smarter career decisions while helping recruiters and analysts better understand hiring trends.
 
-+----------------------------------------------------------+
-|                  🎯 PROJECT OBJECTIVES                   |
-+----------------------------------------------------------+
+🎯 PROJECT OBJECTIVES
 
 - Analyze hiring trends in the Indian technology sector.
 - Identify the most in-demand technical skills.
@@ -44,9 +38,7 @@ These insights enable job seekers to make smarter career decisions while helping
 - Visualize insights using interactive Power BI dashboards.
 - Support data-driven career planning and recruitment decisions.
 
-+----------------------------------------------------------+
-|                    🛠️ TECH STACK                         |
-+----------------------------------------------------------+
+🛠️ TECH STACK 
 
 - Python
 - Pandas
@@ -55,11 +47,9 @@ These insights enable job seekers to make smarter career decisions while helping
 - Microsoft Excel
 - Power BI
 
+📂 Project Structure
 
-+----------------------------------------------------------+
-|                  📂 PROJECT STRUCTURE                    |
-+----------------------------------------------------------+
-
+```text
 TalentLens-AI
 │
 ├── README.md
@@ -86,10 +76,9 @@ TalentLens-AI
     ├── SKILL ANALYSIS.png
     ├── SALARY ANALYSIS.png
     └── INSIGHTS.png
+```
 
-+----------------------------------------------------------+
-|                       📊 DATASET                         |
-+----------------------------------------------------------+
+📊 DATASET 
 
 The dataset contains Indian technology job postings with information such as:
 
@@ -102,9 +91,7 @@ The dataset contains Indian technology job postings with information such as:
 - Job Description
 - Upload Date
 
-+----------------------------------------------------------+
-|             🧹 DATA CLEANING & PREPROCESSING             |
-+----------------------------------------------------------+
+🧹 DATA CLEANING & PREPROCESSING   
 
 The dataset was cleaned and transformed using Python.
 
@@ -118,9 +105,7 @@ Steps performed include:
 - Calculated average salary
 - Created separate datasets for salary and skills analysis
 
-+----------------------------------------------------------+
-|              📈 EXPLORATORY DATA ANALYSIS                |
-+----------------------------------------------------------+
+ 📈 EXPLORATORY DATA ANALYSIS    
 
 The analysis focuses on:
 
@@ -132,9 +117,7 @@ The analysis focuses on:
 - Salary Analysis
 - Technology Trends
 
-+----------------------------------------------------------+
-|                 📊 POWER BI DASHBOARDS                   |
-+----------------------------------------------------------+
+📊 POWER BI DASHBOARDS    
 
 Dashboard 1 — Job Market Overview
 
@@ -146,16 +129,12 @@ Dashboard 1 — Job Market Overview
 - Top Hiring Locations
 - Experience Distribution
 
-
-
 Dashboard 2 — Skills Analysis
 
 - Top Technical Skills
 - Programming Languages
 - Cloud & DevOps Technologies
 - Frameworks & Tools
-
-
 
 Dashboard 3 — Salary Analysis
 
@@ -165,8 +144,6 @@ Dashboard 3 — Salary Analysis
 - Highest Paying Locations
 - Salary Distribution
 
-
-
 Dashboard 4 — Executive Summary
 
 - Project Insights
@@ -174,9 +151,7 @@ Dashboard 4 — Executive Summary
 - Key Findings
 - Executive Summary
 
-+----------------------------------------------------------+
-|                    🔍 KEY INSIGHTS                       |
-+----------------------------------------------------------+
+🔍 KEY INSIGHTS           
 
 - Python emerged as the most in-demand programming language.
 - Java and SQL continue to be among the most requested technical skills.
@@ -185,9 +160,7 @@ Dashboard 4 — Executive Summary
 - Mid-level professionals account for a significant share of technology job openings.
 - Salary trends vary considerably across companies, locations, and job roles.
 
-+----------------------------------------------------------+
-|                    👩‍💻 AUTHOR                            |
-+----------------------------------------------------------+
+👩‍💻 AUTHOR             
 
 **Jayasree Chakraborty**
 
