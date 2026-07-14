@@ -186,14 +186,14 @@ The analysis focuses on:
 ---
 
 ## 🔍 Key Insights
-
+```text
 - Python emerged as the most in-demand programming language.
 - Java and SQL continue to be among the most requested technical skills.
 - AWS leads cloud technology demand across job postings.
 - Bengaluru, Hyderabad, Pune, and Gurugram are major technology hiring hubs.
 - Mid-level professionals account for a significant share of technology job openings.
 - Salary trends vary considerably across companies, locations, and job roles.
-
+```
   
 👩‍💻 AUTHOR             
 ```text
